@@ -26,6 +26,8 @@ npm start
 
 启动成功后打开 http://localhost:8080 即可访问，随意输入用户名与密码即可登录
 
+在线预览 https://tanj2014.github.io/vue-element-blog/dist/index.html#/
+
 # 相关API：
 
 # 1.获取所有版块
