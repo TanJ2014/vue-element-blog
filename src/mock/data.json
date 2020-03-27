@@ -1,0 +1,465 @@
+{
+"allPlates":[
+  {
+    "id":1,
+    "plateName":"VUE框架",
+    "description":"这是讨论VUE的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":2,
+    "plateName":"AngularJS",
+    "description":"这是讨论AngularJS的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":3,
+    "plateName":"Bootstrap",
+    "description":"这是讨论Bootstrap的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":4,
+    "plateName":"CSS",
+    "description":"这是讨论CSS的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":5,
+    "plateName":"HTML",
+    "description":"这是讨论HTML的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":6,
+    "plateName":"JavaScript",
+    "description":"这是讨论JavaScript的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":7,
+    "plateName":"JAVA",
+    "description":"这是讨论JAVA的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":8,
+    "plateName":"算法",
+    "description":"这是讨论算法的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":9,
+    "plateName":"工作内容",
+    "description":"这是讨论工作内容的地方",
+    "articleNum|1-300": 9
+  },
+  {
+    "id":10,
+    "plateName":"工作内容3",
+    "description":"这是讨论工作内容3的地方",
+    "articleNum|1-300": 9
+  }
+],
+"topIntegralUser":[
+  {
+    "id|+1":1,
+    "integral|2000-3000":2000,
+    "nickName":"@cname",
+    "signatrue":"这是我的个性签名",
+    "photo":"https://cn.vuejs.org/images/logo.png"
+  },
+  {
+    "id|+1":1,
+    "integral|1500-2000":1500,
+    "nickName":"@cname",
+    "signatrue":"这是我的个性签名",
+    "photo":"https://cn.vuejs.org/images/logo.png"
+  },
+  {
+    "id|+1":1,
+    "integral|1000-1500":1000,
+    "nickName":"@cname",
+    "signatrue":"这是我的个性签名",
+    "photo":"https://cn.vuejs.org/images/logo.png"
+  },
+  {
+    "id|+1":1,
+    "integral|600-1000":600,
+    "nickName":"@cname",
+    "signatrue":"这是我的个性签名",
+    "photo":"https://cn.vuejs.org/images/logo.png"
+  }
+],
+  "articleList":[1,2,3,4],
+  "otherNewArticleList":{
+    "allLength":9,
+    "articleLists|9":[
+      {
+        "id|+1":5,
+        "title":"最新：@ctitle(10,20)",
+        "content":"@cparagraph",
+        "userId|1-100":4,
+        "nickName":"我是别人",
+        "publishTime":"@datetime",
+        "clickNum|1-3000":12,
+        "commentNum|1-50":1
+      }
+    ]
+  },
+  "otherHotArticleList":{
+    "allLength":9,
+    "articleLists|9":[
+      {
+        "id|+1":5,
+        "title":"最热：@ctitle(10,20)",
+        "content":"@cparagraph",
+        "userId|1-100":4,
+        "nickName":"我是别人",
+        "publishTime":"@datetime",
+        "clickNum|1-3000":12,
+        "commentNum|1-50":1
+      }
+    ]
+  },
+  "homeNewArticleList":{
+    "allLength":19,
+    "articleLists|19":[
+      {
+        "id|+1":1,
+        "title":"最新：@ctitle(10,20)",
+        "content":"@cparagraph",
+        "userId|1-100":1,
+        "nickName":"@cname",
+        "publishTime":"@datetime",
+        "clickNum|1-3000":12,
+        "commentNum|1-50":1
+      }
+    ]
+  },
+  "homeHotArticleList":{
+    "allLength":20,
+    "articleLists|20":[
+      {
+        "id|+1":1,
+        "title":"热门：@ctitle",
+        "content":"@cparagraph",
+        "userId|1-100":1,
+        "nickName":"@cname",
+        "publishTime":"@datetime",
+        "clickNum|1-3000":12,
+        "commentNum|1-50":1
+      }
+    ]
+  },
+  "centerHotArticleList":{
+    "allLength":13,
+    "articleLists|8":[
+      {
+        "id":4,
+        "title":"最新：@ctitle(10,20)",
+        "content":"@cparagraph",
+        "userId":1,
+        "nickName":"tanjjj",
+        "publishTime":"@datetime",
+        "clickNum|1-3000":12,
+        "commentNum|1-50":1
+      }
+    ]
+  },
+  "centerNewArticleList":{
+    "allLength":4,
+    "articleLists|4":[
+      {
+        "id":1,
+        "title":"最新：@ctitle(10,20)",
+        "content":"@cparagraph",
+        "userId":1,
+        "nickName":"tanjjj",
+        "publishTime":"@datetime",
+        "clickNum|1-3000":12,
+        "commentNum|1-50":1
+      }
+    ]
+  },
+  "searchArticle":{
+    "allLength":11,
+    "articleLists|11":[
+      {
+        "id|+1":1,
+        "title":"最新：@ctitle(10,20)",
+        "content":"@cparagraph",
+        "userId|1-100":1,
+        "nickName":"@cname",
+        "publishTime":"@datetime",
+        "clickNum|1-3000":12,
+        "commentNum|1-50":1
+      }
+    ]
+  },
+
+  "profile4":{
+    "nickName":"我是别人",
+    "articleNum|1-150":44,
+    "commentNum|1-200":122,
+    "visitNum|1-70000":1000,
+    "integral|200-3000":1000,
+    "photo":"https://cn.vuejs.org/images/logo.png"
+  },
+  "profile3":{
+    "nickName":"tanj",
+    "articleNum|1-10000":1,
+    "commentNum":1292,
+    "visitNum":1000,
+    "integral":1000,
+    "photo":"https://cn.vuejs.org/images/logo.png"
+  },
+  "classify":[
+    {
+      "id":1,
+      "plateName":"我自己的学习",
+      "articleNum|1-300":123
+    },
+    {
+      "id":2,
+      "plateName":"我自己的版块",
+      "articleNum|1-300":123
+    },
+    {
+      "id":3,
+      "plateName":"我自己的日记",
+      "articleNum|1-300":123
+    },
+    {
+      "id":4,
+      "plateName":"我自己的笔记",
+      "articleNum|1-300":123
+    },
+    {
+      "id":5,
+      "plateName":"八卦",
+      "articleNum|1-300":123
+    }
+  ],
+  "classify4":[
+    {
+      "id":4,
+      "plateName":"别人的学习",
+      "articleNum":123
+    },
+    {
+      "id":5,
+      "plateName":"别人的版块",
+      "articleNum":1235
+    },
+    {
+      "id":6,
+      "plateName":"别人的游戏",
+      "articleNum":1236
+    }
+  ],
+  "newComment":[
+    {
+      "userId|+1":1,
+      "nickName":"@cname",
+      "content":"@cparagraph(10,20)",
+      "topicId|1-10":1,
+      "title":"@ctitle(5.20)"
+    },
+    {
+      "userId|+1":1,
+      "nickName":"@cname",
+      "content":"@cparagraph(10,20)",
+      "topicId|1-10":1,
+      "title":"@ctitle(5.20)"
+    },
+    {
+      "userId|+1":1,
+      "nickName":"@cname",
+      "content":"@cparagraph(10,20)",
+      "topicId|1-10":1,
+      "title":"@ctitle(5.20)"
+    }
+  ],
+  "newComment4":[
+    {
+      "userId|+1":1,
+      "nickName":"@cname",
+      "content":"@cparagraph(10,20)",
+      "topicId|1-10":1,
+      "title":"@ctitle(5.20)"
+    },
+    {
+      "userId|+1":1,
+      "nickName":"@cname",
+      "content":"@cparagraph(10,20)",
+      "topicId|1-10":1,
+      "title":"@ctitle(5.20)"
+    },
+    {
+      "userId|+1":1,
+      "nickName":"@cname",
+      "content":"@cparagraph(10,20)",
+      "topicId|1-10":1,
+      "title":"@ctitle(5.20)"
+    }
+  ],
+  "articledetail":{
+    "userId":1,
+    "nickName":"tanjj",
+    "publishTime":"@datetime",
+    "title":"文章的标题",
+    "clickNum":233,
+    "plateId":1,
+    "plateName":"学习",
+    "content|3":"<p> sd<strong><span style='background-color:#E53333;'>sdsdfddff</span></strong> </p> <p> <strong><span style='background-color:#E53333;'>fdfd</span></strong> </p> <p> <strong><span style='background-color:#E53333;'><span style='background-color:;'>fdfd<span style='background-color:#FFFFFF;'>fdfdffdf</span>df<span style='background-color:;'>bc<span style='background-color:#FFFFFF;'>fdfdfdfdf</span></span></span><br /> </span></strong> </p> <p> <strong><span style='background-color:#E53333;'><span style='background-color:;'><span style='background-color:;'><span style='background-color:#FFFFFF;'><br /> </span></span></span></span></strong> </p> <p> <strong><span style='background-color:#E53333;'><span style='background-color:;'><span style='background-color:;'><span style='background-color:#FFFFFF;'>fd</span></span></span></span></strong> </p> <p> <strong><span style='background-color:#E53333;'><span style='background-color:;'><span style='background-color:;'><span style='background-color:#FFFFFF;'><br /> </span></span></span></span></strong> </p> <p> <strong><span style='background-color:#E53333;'><span style='background-color:;'><span style='background-color:;'><span style='background-color:#FFFFFF;'><s>dssdd</s><br /> </span></span></span></span></strong> </p>"
+  },
+  "articledetail2":{
+    "userId|1-100":1,
+    "nickName":"别人的博客",
+    "publishTime":"@datetime",
+    "title":"@ctitle(10.15)",
+    "clickNum|1-2000":233,
+    "plateId|1-10":1,
+    "plateName":"学习",
+    "content|6":"@cparagraph"
+  },
+  "articledetail4":{
+    "userId":4,
+    "nickName":"tanjj44444444444",
+    "publishTime":"2343-43-43",
+    "title":"文章的标题",
+    "clickNum":233,
+    "plateName":"学习",
+    "content":"<p>\n\t<span style=\"background-color:#E56600;\">vxcvxv</span>\n"
+
+  },
+  "articlecomment":[
+    {
+      "id|+1": 1,
+      "updataDate":"@datetime",
+      "topicId|1-100": 1,
+      "userId|1-30": 1,
+      "nickName": "犀利的评论家",
+      "photo": "http://ww4.sinaimg.cn/bmiddle/006DLFVFgy1ft0j2pddjuj30v90uvagf.jpg",
+      "content": "我想说@csentence",
+      "reply|1-4": [
+        {
+          "id|1-20": 1,
+          "commentId": "121",
+          "userId": "1",
+          "nickName": "@cname(1,4)",
+          "photo": "https://wx4.sinaimg.cn/mw690/69e273f8gy1ft1541dmb7j215o0qv7wh.jpg",
+          "toId": "12",
+          "toName": "犀利的评论家",
+          "toPhoto": "http://ww4.sinaimg.cn/bmiddle/006DLFVFgy1ft0j2pddjuj30v90uvagf.jpg",
+          "content": "赞同，很靠谱，水平很高",
+          "updataDate": "@datetime"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "updataDate":"2018-07-05 08:30",
+      "topicId": "122",
+      "userId": "4",
+      "nickName": "俺是老师",
+      "photo": "http://ww4.sinaimg.cn/bmiddle/006DLFVFgy1ft0j2pddjuj30v90uvagf.jpg",
+      "content": "666！！！！！！",
+      "reply": [
+        {
+          "id": "1",
+          "commentId": "121",
+          "userId": "22",
+          "nickName": "按时吃饭",
+          "photo": "https://wx4.sinaimg.cn/mw690/69e273f8gy1ft1541dmb7j215o0qv7wh.jpg",
+          "toId": "4",
+          "toName": "8888",
+          "toPhoto": "http://ww4.sinaimg.cn/bmiddle/006DLFVFgy1ft0j2pddjuj30v90uvagf.jpg",
+          "content": "@csentence",
+          "updataDate": "@datetime"
+        },
+        {
+          "id": "12",
+          "commentId": "121",
+          "userId": "1",
+          "nickName": "夕阳红",
+          "photo": "https://wx4.sinaimg.cn/mw690/69e273f8gy1ft1541dmb7j215o0qv7wh.jpg",
+          "toId": "12",
+          "toName": "按时吃饭",
+          "toPhoto": "http://ww4.sinaimg.cn/bmiddle/006DLFVFgy1ft0j2pddjuj30v90uvagf.jpg",
+          "content": "@csentence",
+          "updataDate": "@datetime"
+        }
+      ]
+    }
+  ],
+  "login":{
+    "status":1,
+    "id":1,
+    "nickName":"tanjjj",
+    "message":"登录成功！"
+  },
+  "logout":{
+    "status":1,
+    "message":"退出成功！"
+  },
+  "postarticle":{
+    "status":1,
+    "message":"发布文章成功！"
+  },
+  "editarticle":{
+    "status":1,
+    "message":"修改文章成功！"
+  },
+  "delarticle":{
+    "status":1,
+    "message":"删除成功！"
+  },
+  "loginuserinfo":{
+    "id":1,
+    "integral":100,
+    "roleName":"普通用户",
+    "nickName":"tanj",
+    "sex":"女",
+    "email":"@email()",
+    "signatrue":"这是俺的个性签名@csentence",
+    "photo":"../../assets/img/userTou.jpg"
+  },
+  "editloginuserinfo":{
+    "status":1,
+    "message":"修改成功了哦"
+  },
+  "editpassword":{
+    "status":1,
+    "message":"修改成功了哦"
+  },
+  "register":{
+    "status":1,
+    "message":"注册成功"
+  },
+  "commentarticle":{
+    "status":1,
+    "message":"评论成功！！！！！！！！！！！！！！"
+  },
+  "replyarticle":{
+    "status":1,
+    "message":"回复成功！！！！！！！！！！！！！！"
+  },
+  "delcomment":{
+    "status":1,
+    "message":"删除评论成功！！！！"
+  },
+  "delreply":{
+    "status":1,
+    "message":"删除回复成功！！！！"
+  },
+  "enteruser1":{
+    "nickName":"tanj",
+    "signature":"一个前端程序员的个人博客|心之所向,无问西东 www.tanj.com.cn"
+  },
+  "enteruser4":{
+    "nickName":"我是别人",
+    "signature":"这是别人的个性签名 www.tanj.com.cn"
+  }
+}
